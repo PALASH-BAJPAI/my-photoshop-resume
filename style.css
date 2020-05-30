@@ -1,0 +1,27 @@
+html {
+    scroll-behavior: smooth;
+}
+
+footer {
+    background-color: rgb(240, 193, 228);
+}
+
+header {
+    background-color: rgba(255, 202, 242, 0.404);
+}
+
+.heading:hover {
+    font-weight: bold;
+    background-color: rgba(240, 149, 210, 0.479);
+}
+
+.logo {
+    width: 50px;
+    height: 50px;
+}
+
+.last {
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 54px;
+}
